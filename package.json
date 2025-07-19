@@ -2,6 +2,7 @@
   "name": "financial-categorizer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pfabrikant.github.io/financial-categorizer",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "@testing-library/dom": "^10.4.0",
